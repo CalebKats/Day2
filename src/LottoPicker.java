@@ -2,7 +2,6 @@ import java.util.Random;
 
 public class LottoPicker {
     public static void main(String[] args){
-        // dataType variableName = theValueToBeStored
         String nameOfIt = "Application started...";
         System.out.println(nameOfIt);
         Random random = new Random();
